@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Isbn</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_book_details">Book details</string>
+    <string name="isbnkey">U3W26R0N</string>
+
+</resources>
